@@ -18,12 +18,13 @@
 
 ## Gitpod Workspace 👨‍💻
 
+![Gitod_Workspace](https://user-images.githubusercontent.com/59861179/188303095-f4b5455e-d6c0-4ad0-bab8-09d89af95eec.gif)
 
 ## 👇 Prerequisites
 - [Git](https://git-scm.com/downloads)
 - [Python 3.0](https://www.python.org/)
 
-![Gitod_Workspace](https://user-images.githubusercontent.com/59861179/188303095-f4b5455e-d6c0-4ad0-bab8-09d89af95eec.gif)
+
 
 ## 🛠️ Installation Steps
 
